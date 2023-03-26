@@ -1,0 +1,3 @@
+#登录时直连
+- DOMAIN,api.unity.com,DIRECT
+- DOMAIN,id.unity.com,DIRECT
