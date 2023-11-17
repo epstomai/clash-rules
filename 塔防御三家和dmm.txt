@@ -1,0 +1,8 @@
+- DOMAIN-SUFFIX,dmm.com,日本
+- DOMAIN-SUFFIX,dmm.co.jp,日本
+- DOMAIN-SUFFIX,dmmgames.com,日本
+- DOMAIN-SUFFIX,dmm.hk,日本
+- DOMAIN-SUFFIX,dmm-extension.com,日本
+- DOMAIN-SUFFIX,game-monmusu-td.net,日本
+- DOMAIN-SUFFIX,shiropro-re.net,日本
+- DOMAIN-SUFFIX,millennium-war.net,日本
